@@ -76,7 +76,7 @@ import java.util.ArrayList;
 import java.util.Stack;
 import java.util.Scanner;
 
-public class Solution
+public class EvenTree
 {
     /* Method: GetSubtreeSizes(edges)
      * Usage: Map<Integer, Integer> subtreeSizes = new HashMap<Integer,Integer>();

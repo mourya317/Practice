@@ -1,4 +1,4 @@
-/* File: Solution.java
+package practice;/* File: Solution.java
  * -----------------------------------------------------------------------------
  * This program offers a solution to the "Even Tree" challenge on the
  * InterviewStreet website (URL: https://www.interviewstreet.com/challenges/
